@@ -5,9 +5,9 @@ Actuario con enfoque en Data Science. Experiencia en análisis de datos, modelos
 # ------------------------------------------------
 # Áreas de enfoque
 - Análisis exploratorio de datos (EDA)
-- Modelos de Machine Learning
 - Series de tiempo y forecasting
 - Análisis financiero
+- Modelos de Machine Learning
 
 # ------------------------------------------------
 # Tecnologías
